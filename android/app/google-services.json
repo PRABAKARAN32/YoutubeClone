@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096277850704",
+    "project_id": "youtubeclone-firebase",
+    "storage_bucket": "youtubeclone-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096277850704:android:e26e9696f1d7c8abfa6f55",
+        "android_client_info": {
+          "package_name": "com.example.youtubeclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWf7ZQEYOpEZQXBm1k6fekzuegYQ7tT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
